@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My Full name is A.T.M.MUSTAFA MASUD Chowdhury but my short name is Tahmid Chowdhury and I'm a  Junior Full Stack Developer, from Bangladesh 🇧🇩 </h2>
+<h2 align="left">Hi 👋! My Full name is A.T.M.MUSTAFA MASUD Chowdhury, but my short name is Tahmid Chy, and I'm a  Junior Full Stack Developer, from Bangladesh 🇧🇩 </h2>
 
 ###
 
