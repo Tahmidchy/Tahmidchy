@@ -19,12 +19,14 @@
 ## 👨‍💻 About Me  
 - 🌱 **Currently:** Learning **MERN Stack** and building real-world projects  
 - 🔭 **Exploring:** **AI, ML, Deep Learning** — aiming to integrate AI into full-stack solutions  
-- 🎯 **Goal:** Become a **Full Stack Web Developer** and **AI Engineer**  
+- 🎯 **Goal:** Become a **Full Stack Web Developer** and **AI Engineer**
+- 🧠 real-life problem-solving projects
+- 🧑‍💻 innovative thinker 🧠
 - 🛠 **Experience:**  
   - 2.5 years in IT Support & Software Management  
   - Exposure to product design and business development  
 - 🌍 **Proudly Bangladeshi**, coding with global ambition  
-- ⚡ **Fun fact:** When I fix a bug, I treat myself like I just saved the internet 😄  
+- ⚡ **Fun fact:** When I fix a bug🐞, I treat myself like I just saved the internet 😄  
 
 ---
 
