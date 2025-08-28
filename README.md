@@ -76,9 +76,9 @@
 </p>
 
 <!-- GitHub trophies -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tahmidchy&theme=algolia&margin-w=15&margin-h=15" />
-</p>
+</p>-->
 
 ---
 
