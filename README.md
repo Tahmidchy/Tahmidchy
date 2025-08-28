@@ -75,7 +75,19 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahmidchy&theme=react-dark" alt="Contribution Graph"/>
 </p>
+<!-- GitHub funGame -->
+<p align="center">
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tahmidchy/Tahmidchy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tahmidchy/Tahmidchy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tahmidchy/Tahmidchy/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+</p>
 <!-- GitHub trophies -->
 <!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tahmidchy&theme=algolia&margin-w=15&margin-h=15" />
