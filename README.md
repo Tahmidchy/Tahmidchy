@@ -28,7 +28,7 @@
   - Exposure to product design and business development  
 - 🌍 **Proudly Bangladeshi**, coding with global ambition  
 - ⚡ **Fun fact:** When I fix a bug🐞, I treat myself like I just saved the internet 😄
-- The Secret of Successful Personality.... is - **Act like a Fool But Play like King 👑**
+- The Secret of Successful Personality.... is - **Act like a Fool But Play like a King 👑**
 
 ---
 
