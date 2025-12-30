@@ -70,6 +70,8 @@
 <p align="center">
  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tahmidchy&show_icons=true&theme=radical" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidchy&layout=compact&theme=dracula&langs_count=5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Stats Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Langs Card" width="48%" />
 </p>
 
 
