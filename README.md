@@ -67,11 +67,11 @@
 
 ---
 
+<h3 align="left">My GitHub Metrics:</h3>
+
 <p align="center">
- <img height="160" src="https://github-readme-stats.vercel.app/api?username=tahmidchy&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidchy&layout=compact&theme=dracula&langs_count=5" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tahmidchy&show_icons=true&theme=radical" alt="Stats Card" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidchy&layout=compact&theme=radical" alt="Top Langs Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tahmidchy&show_icons=true&theme=radical" alt="Stats Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmidchy&layout=compact&theme=radical" alt="Top Langs Card" width="48%" />
 </p>
 
 
