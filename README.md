@@ -70,9 +70,10 @@
 <h3 align="left">My GitHub Metrics:</h3>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Tahmidchy&show_icons=true&theme=radical" alt="Stats Card" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmidchy&layout=compact&theme=radical" alt="Top Langs Card" width="48%" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahmidchy)](https://github.com/Tahmidchy/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Tahmidchy&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmidchy&layout=compact&theme=dracula" height="160" />
+ <img src="https://komarev.com/ghpvc/?username=Tahmidchy&label=Profile%20views&color=0e75b6&style=flat" />
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahmidchy&show_icons=true))(https://github.com/Tahmidchy/github-readme-stats&show_icons=true))-->
 </p>
 
 
