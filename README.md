@@ -4,7 +4,7 @@
 <!-- Typing animation for title -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Junior+MERN+Developer;Aspiring+Full+Stack+Engineer;Future+Generative+AI+Engineer;Building+Clean+and+Smart+Solutions" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Junior+PERN+Developer;Aspiring+Full+Stack+Engineer;Future+Generative+AI+Engineer;Building+Clean+and+Smart+Solutions" alt="Typing SVG" />
 
   </a>
 </p>
@@ -18,10 +18,10 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🌱 **Currently:** Learning **MERN Stack** and building real-world projects  
+- 🌱 **Currently:** Learning **PERN Stack** and building real-world projects  
 - 🔭 **Exploring:** **AI, ML, Deep Learning** — aiming to integrate AI into full-stack solutions  
 - 🎯 **Goal:** Become a **Full Stack Web Developer** and **AI Engineer**
-- 🧠 real-life problem-solving projects
+- 🧠 Real-life problem-solving projects
 - 🧑‍💻 innovative thinker 🧠
 - 🛠 **Experience:**  
   - 2.5 years in IT Support & Software Management  
